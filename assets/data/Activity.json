@@ -1,0 +1,11 @@
+{
+  "activityId": "123456",
+  "creatorId": "dreamer123456",
+  "timestamp": "1665332888",
+  "tags": "study, dream",
+  "description": "Come to dream together!",
+  "address": "1 Dreamer Road, 123456",
+  "imageSrc": "/123456/",
+  "price": 666,
+  "maxParticipants": 6
+}
